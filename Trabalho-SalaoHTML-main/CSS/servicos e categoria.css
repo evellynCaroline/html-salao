@@ -90,4 +90,33 @@ body {
     font-size: 20px;
 }
 
+.navbar {
+    background-color: #ff4081;
+    height: 70px;
+    padding: 0 50px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar .form-select {
+    background-color: #FF4081;
+    color: white;
+    border: none;
+    margin-left: auto;
+}
+
+.sidebar .nav-link {
+    color: #FF4081;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #ff6fa5;
+    color: white;
+    border-radius: 5px;
+}
 
